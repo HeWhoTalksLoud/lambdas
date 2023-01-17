@@ -101,7 +101,7 @@ public class Main {
         System.out.println(ternaryOperator(isNegativeFloat, cubeFloat, squareFloat).apply(ff));
 
 
-    }
+    } //
 
     // Задание 5.
     public static <T, U> Function<T, U> ternaryOperator(
